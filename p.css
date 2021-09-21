@@ -1,0 +1,30 @@
+h2{
+    text-transform:uppercase;
+    color:white;
+    padding: 0 10px
+  }
+  span{
+    color:red
+  }
+  ul{
+    list-style-type:none;
+    padding:0;
+    margin:0;
+    background:#333;
+    overflow:hidden
+  }
+  li h2{
+    float:left
+  }
+  li a{
+    float:right
+  }
+  li a{
+    text-decoration:none;
+    padding:10px;
+    color:white;
+  }
+  li{
+      display:block
+  }
+  
